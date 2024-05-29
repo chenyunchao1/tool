@@ -1,0 +1,34 @@
+文件夹 PATH 列表
+卷序列号为 0336-45A5
+Visual Leak Detector:
+│  AUTHORS.txt
+│  CHANGES.txt
+│  COPYING.txt
+│  unins000.dat
+│  unins000.exe
+│  vld.ini
+│  
+├─bin
+│  ├─Win32
+│  │      dbghelp.dll
+│  │      Microsoft.DTfW.DHL.manifest
+│  │      vld_x86.dll
+│  │      vld_x86.pdb
+│  │      
+│  └─Win64
+│          dbghelp.dll
+│          Microsoft.DTfW.DHL.manifest
+│          vld_x64.dll
+│          vld_x64.pdb
+│          
+├─include
+│      vld.h
+│      vld_def.h
+│      
+└─lib
+    ├─Win32
+    │      vld.lib
+    │      
+    └─Win64
+            vld.lib
+            
